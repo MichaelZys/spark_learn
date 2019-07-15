@@ -12,3 +12,4 @@ words = sc.parallelize(
      ])
 counts = words.count()
 print("Number of elements in RDD -> %i" % counts)
+print('test')
